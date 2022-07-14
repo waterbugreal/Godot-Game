@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Pilotredsun-_Deathly_(getmp3.pro).mp3-89bc8f59b688de45db5667099a7e95a0.mp3str"
+
+[deps]
+
+source_file="res://Pilotredsun-_Deathly_(getmp3.pro).mp3"
+dest_files=[ "res://.import/Pilotredsun-_Deathly_(getmp3.pro).mp3-89bc8f59b688de45db5667099a7e95a0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
